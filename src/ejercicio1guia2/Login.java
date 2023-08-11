@@ -116,6 +116,7 @@ public class Login extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(this,"Usuario y/o contraseña incorrecta");
         }else{
         JOptionPane.showMessageDialog(this,"BIENVENIDO-"+jtMail.getText());
+        /* comentario por Walter Funes  11/8/2023*/
         }
     }//GEN-LAST:event_jbRegistrarActionPerformed
 
